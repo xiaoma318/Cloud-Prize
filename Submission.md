@@ -17,8 +17,9 @@ I have two submission, ASG Console and ARV
 Basic function includes Display/Create/Delete/Edit Launch Configuration Group, AutoScaling Group and Scaling Policy 
 Group. Advanced funciton is you can remotely enter command to the instances in AutoScaling Group, and it support to do 
 this to multiple instances at the same time. 
-Team name: Fordream
-Team members : Joe(github account:joehack3r) and me(github account:xiaoma318)
+
+   Team name: ForDream<br>
+   Team members : Joe(github account:joehack3r) and me(leader,github account:xiaoma318)
 
 
 ## Provide Links to Github Repo's for your Submission
