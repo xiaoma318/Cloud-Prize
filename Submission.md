@@ -1,5 +1,7 @@
 Edit this page to describe your Submission.
 
+I have two submission, ASG Console and ARV 
+
 ## Which Categories Best Fit Your Submission and Why?
 
 1. The ASG Console: Best Contribution to Operational Tools, Availability, and Manageability
@@ -15,6 +17,9 @@ Edit this page to describe your Submission.
 Basic function includes Display/Create/Delete/Edit Launch Configuration Group, AutoScaling Group and Scaling Policy 
 Group. Advanced funciton is you can remotely enter command to the instances in AutoScaling Group, and it support to do 
 this to multiple instances at the same time. 
+Team name: Fordream
+Team members : Joe(github account:joehack3r) and me(github account:xiaoma318)
+
 
 ## Provide Links to Github Repo's for your Submission
 1. ASG Console: https://github.com/xiaoma318/ASGConsole.git
