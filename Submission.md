@@ -1,6 +1,4 @@
-Edit this page to describe your Submission.
-
-I have two submission, ASG Console and ARV 
+Actually, I have two submission, ASG Console and ARV 
 
 ## Which Categories Best Fit Your Submission and Why?
 
