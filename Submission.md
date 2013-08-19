@@ -13,7 +13,7 @@ Actually, I have three submission, ASG Console, myEdda and myJanitor
 
 ## Describe your Submission
 Team name: ForDream<br>
-Team members : Cheng(leader,github id:xiaoma318) and Joe(github id:joehack3r)
+Team members : Cheng Ma(leader,github id:xiaoma318) and Joe Gardner(github id:joehack3r)
 
 1. ASGConsole provides a user friendly manage console for the AWS AutoScaling Service, which AWS don't have currently.
 Basic function includes Display/Create/Delete/Edit Launch Configuration Group, AutoScaling Group and Scaling Policy 
